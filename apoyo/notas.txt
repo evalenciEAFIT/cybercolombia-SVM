@@ -6,3 +6,4 @@ clang R3_svm02.cpp -o xyz -lstdc++ -lm -fopenmp
 
 Libreria OPENMP
 sudo apt-get install libomp-dev
+
