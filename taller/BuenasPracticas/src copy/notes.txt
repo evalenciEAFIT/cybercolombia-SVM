@@ -1,0 +1,9 @@
+g++ -c Punto.cpp -o ../out/Punto.o
+g++ -c Datos.cpp -o ../out/Datos.o
+g++ -c SVM.cpp -o ../out/SVM.o
+
+g++ main.cpp ../out/Punto.o ../out/Datos.o ../out/SVM.o -o ../out/demo
+
+
+(evalenci㉿ASUSEDI)-[~/CyberColombia/SVM/taller/BuenasPracticas/src]
+└─$ ../out/demo ../../../dataset/datos.csv
