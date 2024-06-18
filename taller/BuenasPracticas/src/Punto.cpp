@@ -1,1 +1,0 @@
-//No se requiere detallar código por lo simple de Punto.h
