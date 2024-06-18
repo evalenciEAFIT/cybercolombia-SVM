@@ -1,9 +1,0 @@
-Compilar con CLang
-
-clang R_svm01.cpp -o xx -lstdc++ -lm -fopenmp
-clang R3_svm02.cpp -o xyz -lstdc++ -lm -fopenmp
-// g++ -o xyz R3_svm02.cpp -fopenmp
-
-Libreria OPENMP
-sudo apt-get install libomp-dev
-
